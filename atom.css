@@ -1,0 +1,36 @@
+.box {
+
+
+/*  vendor */
+
+
+wmso
+
+/*  degradé */
+
+lg(left, blue, red)
+
+
+/*  background */
+bg+
+
+
+/*  font */
+f+
+
+/*  font persso */
+@f+
+
+
+/*  monter de 1 en 1 */
+/*  alt + fleche */
+margin: 20px;
+
+/*  monter de 10 en 10 */
+/*  shift + alt + fleche */
+margin: 20px;
+
+
+/*  border */
+bd+
+}
