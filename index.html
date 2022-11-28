@@ -45,9 +45,9 @@
   <!-- > =  imbrication -->
   div>ul>li>a
 
-  <!-- + = rajoute un element frere à un element -->
+  <!-- + = rajoute un element frere (de même niveau) à un element -->
   div>p+ul>li
-  div.box>p>ul>li
+  div.box>p>ul.list>li.item
 
   <!-- * = multiplier un element -->
   div>ul>li*6
@@ -56,6 +56,26 @@
   <!-- $ = indexer des elements -->
   ul>li.item.item$*5
 
+  <!-- ^ = monter d'un etage -->
+  div>ul^p
+
+
+  <!-- () = créer des groupe d'elements -->
+  section>(header>div>ul>li*2)+footer>p{je suis le footer}
+
+  <!-- [] = appliquer les attribut directement -->
+  a[href="www.google.fr" target="_blanck" title="Google"]
+
+  <!-- form et inputs -->
+  form 
+  form:get 
+  form:post 
+  input:radio 
+  input:checkbox 
+  input:submit
+
+  <!-- lab = pour les label -->
+  lab
 
 
 </body>
