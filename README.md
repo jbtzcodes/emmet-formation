@@ -1,24 +1,32 @@
+# __Emmet de A à Z__
 
-<h1>Emmet</h1>
-<br>
-<p>Source files of Emmet shortcuts.
+Ce répertoire regroupe les fichiers sources de la formation ["Emmet de A à Z"](https://www.udemy.com/course/emmet-de-a-a-z/).
 
-- HTML shortcuts
-- CSS shortcuts
-- Creation of HTML shortcuts
-- Creation of CSS shortcuts
-- Creation of Javascript shortcuts
-- Tricks VS code
-</p>
+Cette formation est divisée en plusieurs parties:
 
-<br>
-<h3>Links:</h3>
-<a target="_blank" href="https://jonathanbenitez.fr">My website</a>
-<br>
-<a target="_blank" href="https://www.instagram.com/laminutedecode/">My Instagram</a>
-<br>
-<a target="_blank" href="https://www.facebook.com/jonathan.benitez.nelya">My Facebook</a>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/jbtzdesigner/?originalSubdomain=fr">My Linkedin</a>
-<br>
-<a target="_blank" href="https://www.youtube.com/channel/UCR9yKZuUdmEsC8jt8SFi1LA">My Youtube channel</a>
+* Les raccourcis Emmet côté HTML
+
+* Les raccourcis Emmet côté CSS
+
+* Créer des raccourcis Emmet côté HTML
+
+* Créer des raccourcis Emmet côté CSS
+
+* Créer des raccourcis Emmet côté Javascript
+
+* Les raccourcis Emmet côté Atom
+
+* Astuces pour visual studio code
+
+
+
+
+## __liens__
+
+* [Acceder à mon compte Instagram:](https://www.instagram.com/laminutedecode)
+
+* [Acceder à mon compte Facebook:](https://www.facebook.com/jonathan.benitez.nelya)
+
+* [Acceder à mon compte Linkedin:](https://www.linkedin.com/in/jbtzdesigner/?originalSubdomain=fr)
+
+* [Acceder à ma chaîne Youtube:](https://www.youtube.com/channel/UCR9yKZuUdmEsC8jt8SFi1LA)
